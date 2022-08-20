@@ -1,0 +1,7 @@
+https://2680c47eb01a919da45b586b0316a435.pentestgym.com/sqli_blind_ex2.php?emp_no=3
+https://2680c47eb01a919da45b586b0316a435.pentestgym.com/sqli_blind_ex2.php?emp_no=3&id=1
+https://2680c47eb01a919da45b586b0316a435.pentestgym.com/sqli_blind_ex2.php?emp_no=3&id=1&sort=desc
+.
+.
+.
+etc..
